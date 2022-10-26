@@ -1,0 +1,79 @@
+[
+    {
+        "category_id": "63595f5925f54ae80391c6f7",
+        "id": "1",
+        "photoURL": "https://res.cloudinary.com/dev-empty/image/upload/v1662283224/hbwh7008ojteiqt1ohls.jpg",
+        "course_title": "Software Project Management For Start-ups And Solopreneurs",
+        "author":{
+            "authorURL":"https://res.cloudinary.com/dev-empty/image/upload/v1661230727/rquq94qv4bpuvf7xnxyh.jpg",
+            "authorName":"Zayed Fahim"
+        },
+        "price":9.99
+    },
+    {
+        "category_id": "63595f599999b35ae8a738a1",
+        "id": "2",
+        "photoURL": "https://res.cloudinary.com/dev-empty/image/upload/v1662283203/ck5gokacjjnorgvh9rnz.jpg",
+        "course_title": "Agile Project Management",
+        "author":{
+            "authorURL":"https://res.cloudinary.com/dev-empty/image/upload/v1661245253/wqsnxv0pfdwl2abdakf5.jpg",
+            "authorName":"Zayed Fahim"
+        },
+        "price":11.99
+    },
+    {
+        "category_id": "63595f59aecfc256cc92868e",
+        "id": "3",
+        "photoURL": "https://res.cloudinary.com/dev-empty/image/upload/v1661246066/r56386ipf0e55vcjtg3d.jpg",
+        "course_title": "Linux Administration Bootcamp: Go from Beginner to Advanced",
+        "author":{
+            "authorURL":"https://res.cloudinary.com/dev-empty/image/upload/v1661230727/rquq94qv4bpuvf7xnxyh.jpg",
+            "authorName":"Zayed Fahim"
+        },
+        "price":14.99
+    },
+    {
+        "category_id": "63595f59ca34643eab592936",
+        "id": "4",
+        "photoURL": "https://res.cloudinary.com/dev-empty/image/upload/v1662283339/r1ysgphohxnzf1t5a4m0.jpg",
+        "course_title": "AWS Certified Security Specialty 2022",
+        "author":{
+            "authorURL":"https://res.cloudinary.com/dev-empty/image/upload/v1661245253/wqsnxv0pfdwl2abdakf5.jpg",
+            "authorName":"Zayed Fahim"
+        },
+        "price":15.99
+    },
+    {
+        "category_id": "63595f59a66bccfcc14f2a81",
+        "id": "5",
+        "photoURL": "https://res.cloudinary.com/dev-empty/image/upload/v1660632448/qlhb9q20dvxs8lpajjsw.jpg",
+        "course_title": "Node.js for Beginners - Become a Node js Developer",
+        "author":{
+            "authorURL":"https://res.cloudinary.com/dev-empty/image/upload/v1661230727/rquq94qv4bpuvf7xnxyh.jpg",
+            "authorName":"Zayed Fahim"
+        },
+        "price":20.99
+    },
+    {
+        "category_id": "63595f5932b388c9426d4339",
+        "id": "6",
+        "photoURL": "https://res.cloudinary.com/dev-empty/image/upload/v1662283275/fsc54pepqvlrtou2wjbs.jpg",
+        "course_title": "SAP ABAP Programming For Beginners - Online Training",
+        "author":{
+            "authorURL":"https://res.cloudinary.com/dev-empty/image/upload/v1661245253/wqsnxv0pfdwl2abdakf5.jpg",
+            "authorName":"Zayed Fahim"
+        },
+        "price": 20.99
+    },
+    {
+        "category_id": "63595f592d537fc4b8e4112e",
+        "id": "7",
+        "photoURL": "https://res.cloudinary.com/dev-empty/image/upload/v1661246498/gviacpl4bb55gp6r4dal.jpg",
+        "course_title": "How to Run truly Productive Meetings – and add value",
+        "author":{
+            "authorURL":"https://res.cloudinary.com/dev-empty/image/upload/v1661230727/rquq94qv4bpuvf7xnxyh.jpg",
+            "authorName":"Zayed Fahim"
+        },
+        "price":13.99
+    }
+]
