@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "category_name": "C Programming"
+    },
+    {
+        "id": 2,
+        "category_name": "Python"
+    },
+    {
+        "id": 3,
+        "category_name": "Introduction to OOP(Object Oriented Programming)"
+    },
+    {
+        "id": 4,
+        "category_name": "Android Development"
+    },
+    {
+        "id": 5,
+        "category_name": "Web Development"
+    },
+    {
+        "id": 6,
+        "category_name": "Game Development"
+    },
+    {
+        "id": 7,
+        "category_name": "Software Project Management"
+    },
+    {
+        "id": 8,
+        "category_name": "All Courses"
+    }
+]
